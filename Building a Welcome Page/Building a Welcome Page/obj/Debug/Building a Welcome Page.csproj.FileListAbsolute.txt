@@ -1,0 +1,7 @@
+C:\Users\Gaming PC\source\repos\Building a Welcome Page\Building a Welcome Page\bin\Debug\Building a Welcome Page.exe.config
+C:\Users\Gaming PC\source\repos\Building a Welcome Page\Building a Welcome Page\bin\Debug\Building a Welcome Page.exe
+C:\Users\Gaming PC\source\repos\Building a Welcome Page\Building a Welcome Page\bin\Debug\Building a Welcome Page.pdb
+C:\Users\Gaming PC\source\repos\Building a Welcome Page\Building a Welcome Page\obj\Debug\Building a Welcome Page.csprojAssemblyReference.cache
+C:\Users\Gaming PC\source\repos\Building a Welcome Page\Building a Welcome Page\obj\Debug\Building a Welcome Page.csproj.CoreCompileInputs.cache
+C:\Users\Gaming PC\source\repos\Building a Welcome Page\Building a Welcome Page\obj\Debug\Building a Welcome Page.exe
+C:\Users\Gaming PC\source\repos\Building a Welcome Page\Building a Welcome Page\obj\Debug\Building a Welcome Page.pdb
