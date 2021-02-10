@@ -1,0 +1,7 @@
+C:\Users\Gaming PC\source\repos\Math Operation\Math Operation\bin\Debug\Math Operation.exe.config
+C:\Users\Gaming PC\source\repos\Math Operation\Math Operation\bin\Debug\Math Operation.exe
+C:\Users\Gaming PC\source\repos\Math Operation\Math Operation\bin\Debug\Math Operation.pdb
+C:\Users\Gaming PC\source\repos\Math Operation\Math Operation\obj\Debug\Math Operation.csprojAssemblyReference.cache
+C:\Users\Gaming PC\source\repos\Math Operation\Math Operation\obj\Debug\Math Operation.csproj.CoreCompileInputs.cache
+C:\Users\Gaming PC\source\repos\Math Operation\Math Operation\obj\Debug\Math Operation.exe
+C:\Users\Gaming PC\source\repos\Math Operation\Math Operation\obj\Debug\Math Operation.pdb

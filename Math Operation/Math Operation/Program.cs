@@ -1,0 +1,38 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Math_Operation
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            //int consumers = 42 * 50;
+            //Console.WriteLine(consumers);
+            //Console.ReadLine();
+
+            //int vendor = 12 + 25;
+            //Console.WriteLine(vendor);
+            //Console.ReadLine();
+
+            //double speed = 92.0 / 12.5;
+            //Console.WriteLine(speed);
+            //Console.ReadLine();
+
+            //bool TrueOrFalse = 66 > 50;
+            //Console.WriteLine(TrueOrFalse.ToString());
+            //Console.ReadLine();
+
+            //int remainder = 1021 % 7;
+            //Console.WriteLine(remainder);
+            //Console.ReadLine();
+
+
+
+
+        }
+    }
+}
