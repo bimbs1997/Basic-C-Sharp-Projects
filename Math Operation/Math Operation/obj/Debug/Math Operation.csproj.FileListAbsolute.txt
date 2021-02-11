@@ -5,3 +5,10 @@ C:\Users\Gaming PC\source\repos\Math Operation\Math Operation\obj\Debug\Math Ope
 C:\Users\Gaming PC\source\repos\Math Operation\Math Operation\obj\Debug\Math Operation.csproj.CoreCompileInputs.cache
 C:\Users\Gaming PC\source\repos\Math Operation\Math Operation\obj\Debug\Math Operation.exe
 C:\Users\Gaming PC\source\repos\Math Operation\Math Operation\obj\Debug\Math Operation.pdb
+D:\GitHub\Basic-C-Sharp-Projects\Math Operation\Math Operation\bin\Debug\Math Operation.exe.config
+D:\GitHub\Basic-C-Sharp-Projects\Math Operation\Math Operation\bin\Debug\Math Operation.exe
+D:\GitHub\Basic-C-Sharp-Projects\Math Operation\Math Operation\bin\Debug\Math Operation.pdb
+D:\GitHub\Basic-C-Sharp-Projects\Math Operation\Math Operation\obj\Debug\Math Operation.csprojAssemblyReference.cache
+D:\GitHub\Basic-C-Sharp-Projects\Math Operation\Math Operation\obj\Debug\Math Operation.csproj.CoreCompileInputs.cache
+D:\GitHub\Basic-C-Sharp-Projects\Math Operation\Math Operation\obj\Debug\Math Operation.exe
+D:\GitHub\Basic-C-Sharp-Projects\Math Operation\Math Operation\obj\Debug\Math Operation.pdb

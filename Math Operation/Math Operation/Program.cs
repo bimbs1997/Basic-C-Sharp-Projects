@@ -10,9 +10,11 @@ namespace Math_Operation
     {
         static void Main(string[] args)
         {
-            //int consumers = 42 * 50;
-            //Console.WriteLine(consumers);
-            //Console.ReadLine();
+            Console.WriteLine("Please enter your Card number.");
+            string cardnumber = Console.ReadLine();
+            int consumers = 42 * 50;
+            Console.WriteLine("Your slot number is: " + consumers);
+            Console.ReadLine();
 
             //int vendor = 12 + 25;
             //Console.WriteLine(vendor);
