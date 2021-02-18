@@ -5,3 +5,10 @@ C:\Users\Gaming PC\source\repos\Insurance Approval\Insurance Approval\obj\Debug\
 C:\Users\Gaming PC\source\repos\Insurance Approval\Insurance Approval\obj\Debug\Insurance Approval.csproj.CoreCompileInputs.cache
 C:\Users\Gaming PC\source\repos\Insurance Approval\Insurance Approval\obj\Debug\Insurance Approval.exe
 C:\Users\Gaming PC\source\repos\Insurance Approval\Insurance Approval\obj\Debug\Insurance Approval.pdb
+D:\GitHub\Basic-C-Sharp-Projects\Insurance Approval\Insurance Approval\bin\Debug\Insurance Approval.exe.config
+D:\GitHub\Basic-C-Sharp-Projects\Insurance Approval\Insurance Approval\bin\Debug\Insurance Approval.exe
+D:\GitHub\Basic-C-Sharp-Projects\Insurance Approval\Insurance Approval\bin\Debug\Insurance Approval.pdb
+D:\GitHub\Basic-C-Sharp-Projects\Insurance Approval\Insurance Approval\obj\Debug\Insurance Approval.csprojAssemblyReference.cache
+D:\GitHub\Basic-C-Sharp-Projects\Insurance Approval\Insurance Approval\obj\Debug\Insurance Approval.csproj.CoreCompileInputs.cache
+D:\GitHub\Basic-C-Sharp-Projects\Insurance Approval\Insurance Approval\obj\Debug\Insurance Approval.exe
+D:\GitHub\Basic-C-Sharp-Projects\Insurance Approval\Insurance Approval\obj\Debug\Insurance Approval.pdb

@@ -23,7 +23,7 @@ namespace Insurance_Approval
             Console.ReadLine();
 
             Console.WriteLine("Qualified?");
-            bool QualifiedOrNot = age > 15 &&  DUI  ||  ticket < 3;
+            bool QualifiedOrNot = (age > 15 &&  DUI  ^  ticket < 3);
             Console.WriteLine(QualifiedOrNot);
             Console.ReadLine();
 
