@@ -1,0 +1,7 @@
+C:\Users\Gaming PC\source\repos\Insurance Approval\Insurance Approval\bin\Debug\Insurance Approval.exe.config
+C:\Users\Gaming PC\source\repos\Insurance Approval\Insurance Approval\bin\Debug\Insurance Approval.exe
+C:\Users\Gaming PC\source\repos\Insurance Approval\Insurance Approval\bin\Debug\Insurance Approval.pdb
+C:\Users\Gaming PC\source\repos\Insurance Approval\Insurance Approval\obj\Debug\Insurance Approval.csprojAssemblyReference.cache
+C:\Users\Gaming PC\source\repos\Insurance Approval\Insurance Approval\obj\Debug\Insurance Approval.csproj.CoreCompileInputs.cache
+C:\Users\Gaming PC\source\repos\Insurance Approval\Insurance Approval\obj\Debug\Insurance Approval.exe
+C:\Users\Gaming PC\source\repos\Insurance Approval\Insurance Approval\obj\Debug\Insurance Approval.pdb
