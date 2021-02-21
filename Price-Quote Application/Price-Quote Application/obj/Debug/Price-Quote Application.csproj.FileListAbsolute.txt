@@ -1,0 +1,7 @@
+C:\Users\Gaming PC\source\repos\Price-Quote Application\Price-Quote Application\bin\Debug\Price-Quote Application.exe.config
+C:\Users\Gaming PC\source\repos\Price-Quote Application\Price-Quote Application\bin\Debug\Price-Quote Application.exe
+C:\Users\Gaming PC\source\repos\Price-Quote Application\Price-Quote Application\bin\Debug\Price-Quote Application.pdb
+C:\Users\Gaming PC\source\repos\Price-Quote Application\Price-Quote Application\obj\Debug\Price-Quote Application.csprojAssemblyReference.cache
+C:\Users\Gaming PC\source\repos\Price-Quote Application\Price-Quote Application\obj\Debug\Price-Quote Application.csproj.CoreCompileInputs.cache
+C:\Users\Gaming PC\source\repos\Price-Quote Application\Price-Quote Application\obj\Debug\Price-Quote Application.exe
+C:\Users\Gaming PC\source\repos\Price-Quote Application\Price-Quote Application\obj\Debug\Price-Quote Application.pdb
