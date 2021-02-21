@@ -1,0 +1,7 @@
+C:\Users\Gaming PC\source\repos\Loop Assignment\Loop Assignment\bin\Debug\Loop Assignment.exe.config
+C:\Users\Gaming PC\source\repos\Loop Assignment\Loop Assignment\bin\Debug\Loop Assignment.exe
+C:\Users\Gaming PC\source\repos\Loop Assignment\Loop Assignment\bin\Debug\Loop Assignment.pdb
+C:\Users\Gaming PC\source\repos\Loop Assignment\Loop Assignment\obj\Debug\Loop Assignment.csprojAssemblyReference.cache
+C:\Users\Gaming PC\source\repos\Loop Assignment\Loop Assignment\obj\Debug\Loop Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Gaming PC\source\repos\Loop Assignment\Loop Assignment\obj\Debug\Loop Assignment.exe
+C:\Users\Gaming PC\source\repos\Loop Assignment\Loop Assignment\obj\Debug\Loop Assignment.pdb
