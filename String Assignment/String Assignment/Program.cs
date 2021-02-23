@@ -28,6 +28,8 @@ namespace String_Assignment
             StringBuilder fsb = new StringBuilder("Life isn't about finding yourself.", 100);
 
             fsb.Append("Life is about creating yourself.");
+            fsb.AppendFormat("Life is what happens when you're busy making other plans." );
+            fsb.Append("We are here to add what we can to life, not to get what we can from life");
             Console.WriteLine(fsb);
             Console.ReadLine();
 
