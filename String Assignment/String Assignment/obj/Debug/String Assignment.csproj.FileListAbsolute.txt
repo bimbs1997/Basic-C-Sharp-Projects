@@ -1,0 +1,7 @@
+C:\Users\Gaming PC\source\repos\String Assignment\String Assignment\bin\Debug\String Assignment.exe.config
+C:\Users\Gaming PC\source\repos\String Assignment\String Assignment\bin\Debug\String Assignment.exe
+C:\Users\Gaming PC\source\repos\String Assignment\String Assignment\bin\Debug\String Assignment.pdb
+C:\Users\Gaming PC\source\repos\String Assignment\String Assignment\obj\Debug\String Assignment.csprojAssemblyReference.cache
+C:\Users\Gaming PC\source\repos\String Assignment\String Assignment\obj\Debug\String Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Gaming PC\source\repos\String Assignment\String Assignment\obj\Debug\String Assignment.exe
+C:\Users\Gaming PC\source\repos\String Assignment\String Assignment\obj\Debug\String Assignment.pdb
