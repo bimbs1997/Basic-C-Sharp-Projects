@@ -25,24 +25,11 @@ namespace String_Assignment
             System.Console.WriteLine(str);
             Console.ReadLine();
 
-            StringBuilder fsb = new StringBuilder();
+            StringBuilder fsb = new StringBuilder("Life isn't about finding yourself.", 100);
 
-            fsb.Append("Life isn't about finding yourself. Life is about creating yourself.");
+            fsb.Append("Life is about creating yourself.");
             Console.WriteLine(fsb);
             Console.ReadLine();
-
-            StringBuilder ssb = new StringBuilder();
-
-            ssb.Append("Sometimes people are beautiful. Not in what they say. Just in what they are.");
-            Console.WriteLine(ssb);
-            Console.ReadLine();
-
-            StringBuilder tsb = new StringBuilder();
-
-            tsb.Append("Life is like riding a bicycle. To keep your balance, you must keep moving.");
-            Console.WriteLine(tsb);
-            Console.ReadLine();
-
 
         }
     }
