@@ -5,3 +5,10 @@ C:\Users\Gaming PC\source\repos\Daily Report Assignment\Daily Report Assignment\
 C:\Users\Gaming PC\source\repos\Daily Report Assignment\Daily Report Assignment\obj\Debug\Daily Report Assignment.csproj.CoreCompileInputs.cache
 C:\Users\Gaming PC\source\repos\Daily Report Assignment\Daily Report Assignment\obj\Debug\Daily Report Assignment.exe
 C:\Users\Gaming PC\source\repos\Daily Report Assignment\Daily Report Assignment\obj\Debug\Daily Report Assignment.pdb
+D:\GitHub\Basic-C-Sharp-Projects\Daily Report Assignment\Daily Report Assignment\bin\Debug\Daily Report Assignment.exe.config
+D:\GitHub\Basic-C-Sharp-Projects\Daily Report Assignment\Daily Report Assignment\bin\Debug\Daily Report Assignment.exe
+D:\GitHub\Basic-C-Sharp-Projects\Daily Report Assignment\Daily Report Assignment\bin\Debug\Daily Report Assignment.pdb
+D:\GitHub\Basic-C-Sharp-Projects\Daily Report Assignment\Daily Report Assignment\obj\Debug\Daily Report Assignment.csprojAssemblyReference.cache
+D:\GitHub\Basic-C-Sharp-Projects\Daily Report Assignment\Daily Report Assignment\obj\Debug\Daily Report Assignment.csproj.CoreCompileInputs.cache
+D:\GitHub\Basic-C-Sharp-Projects\Daily Report Assignment\Daily Report Assignment\obj\Debug\Daily Report Assignment.exe
+D:\GitHub\Basic-C-Sharp-Projects\Daily Report Assignment\Daily Report Assignment\obj\Debug\Daily Report Assignment.pdb

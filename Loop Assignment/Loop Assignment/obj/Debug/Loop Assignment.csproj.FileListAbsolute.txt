@@ -5,3 +5,10 @@ C:\Users\Gaming PC\source\repos\Loop Assignment\Loop Assignment\obj\Debug\Loop A
 C:\Users\Gaming PC\source\repos\Loop Assignment\Loop Assignment\obj\Debug\Loop Assignment.csproj.CoreCompileInputs.cache
 C:\Users\Gaming PC\source\repos\Loop Assignment\Loop Assignment\obj\Debug\Loop Assignment.exe
 C:\Users\Gaming PC\source\repos\Loop Assignment\Loop Assignment\obj\Debug\Loop Assignment.pdb
+D:\GitHub\Basic-C-Sharp-Projects\Loop Assignment\Loop Assignment\bin\Debug\Loop Assignment.exe.config
+D:\GitHub\Basic-C-Sharp-Projects\Loop Assignment\Loop Assignment\bin\Debug\Loop Assignment.exe
+D:\GitHub\Basic-C-Sharp-Projects\Loop Assignment\Loop Assignment\bin\Debug\Loop Assignment.pdb
+D:\GitHub\Basic-C-Sharp-Projects\Loop Assignment\Loop Assignment\obj\Debug\Loop Assignment.csprojAssemblyReference.cache
+D:\GitHub\Basic-C-Sharp-Projects\Loop Assignment\Loop Assignment\obj\Debug\Loop Assignment.csproj.CoreCompileInputs.cache
+D:\GitHub\Basic-C-Sharp-Projects\Loop Assignment\Loop Assignment\obj\Debug\Loop Assignment.exe
+D:\GitHub\Basic-C-Sharp-Projects\Loop Assignment\Loop Assignment\obj\Debug\Loop Assignment.pdb
