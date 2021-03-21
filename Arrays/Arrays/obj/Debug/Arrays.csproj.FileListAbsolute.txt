@@ -5,3 +5,10 @@ C:\Users\Gaming PC\source\repos\Arrays\Arrays\obj\Debug\Arrays.csprojAssemblyRef
 C:\Users\Gaming PC\source\repos\Arrays\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
 C:\Users\Gaming PC\source\repos\Arrays\Arrays\obj\Debug\Arrays.exe
 C:\Users\Gaming PC\source\repos\Arrays\Arrays\obj\Debug\Arrays.pdb
+D:\GitHub\Basic-C-Sharp-Projects\Arrays\Arrays\bin\Debug\Arrays.exe.config
+D:\GitHub\Basic-C-Sharp-Projects\Arrays\Arrays\bin\Debug\Arrays.exe
+D:\GitHub\Basic-C-Sharp-Projects\Arrays\Arrays\bin\Debug\Arrays.pdb
+D:\GitHub\Basic-C-Sharp-Projects\Arrays\Arrays\obj\Debug\Arrays.csprojAssemblyReference.cache
+D:\GitHub\Basic-C-Sharp-Projects\Arrays\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+D:\GitHub\Basic-C-Sharp-Projects\Arrays\Arrays\obj\Debug\Arrays.exe
+D:\GitHub\Basic-C-Sharp-Projects\Arrays\Arrays\obj\Debug\Arrays.pdb

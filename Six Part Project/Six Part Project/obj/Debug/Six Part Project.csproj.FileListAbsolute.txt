@@ -1,0 +1,7 @@
+C:\Users\Gaming PC\source\repos\Six Part Project\Six Part Project\bin\Debug\Six Part Project.exe.config
+C:\Users\Gaming PC\source\repos\Six Part Project\Six Part Project\bin\Debug\Six Part Project.exe
+C:\Users\Gaming PC\source\repos\Six Part Project\Six Part Project\bin\Debug\Six Part Project.pdb
+C:\Users\Gaming PC\source\repos\Six Part Project\Six Part Project\obj\Debug\Six Part Project.csprojAssemblyReference.cache
+C:\Users\Gaming PC\source\repos\Six Part Project\Six Part Project\obj\Debug\Six Part Project.csproj.CoreCompileInputs.cache
+C:\Users\Gaming PC\source\repos\Six Part Project\Six Part Project\obj\Debug\Six Part Project.exe
+C:\Users\Gaming PC\source\repos\Six Part Project\Six Part Project\obj\Debug\Six Part Project.pdb

@@ -65,9 +65,9 @@ namespace Arrays
             else
             {
                 Console.WriteLine("Try again Next Time.");
-                Console.ReadLine();
+               
             }
-
+            Console.ReadLine();
         }
     }
 }
