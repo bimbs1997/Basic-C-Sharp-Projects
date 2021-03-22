@@ -92,7 +92,7 @@ namespace Six_Part_Project
                 Console.WriteLine(i + ":" + someSame[i]);
             }
             Console.Write("\nYour choice: ");
-            int choice = Convert.ToInt32(Console.ReadLine());
+            int choice = Convert.ToInt16(Console.ReadLine());
             bool found = false;
             if (choice >= 0 && choice < someSame.Count)
             {
@@ -126,18 +126,32 @@ namespace Six_Part_Project
             foreach (string val in someDup)
             {
                 found = false;
-                for (int i = 0; i < counter; i++)
+
+                //Starting index for second forech loop
+                int count = 0;
+                foreach (string seconName in someDup)
                 {
-                    if (someDup[i].Equals(val))
+                    //Skipping the same index
+                    if (counter == count)
                     {
-                        Console.WriteLine(val + " is already on the list");
-                        found = true;
-                        break;
+                        count++;
+                        continue;
                     }
+                    if (seconName.Equals(val))
+                    {
+                        if (seconName.Equals(val))
+                        {
+                            Console.WriteLine();
+                            Console.WriteLine(val + " is already appeared in string!");
+                            found = true;
+                            break;
+                        }
+                    }
+                    count++;
                 }
                 if (found == false)
                 {
-                    Console.WriteLine(val);
+                    Console.WriteLine("\n{0} is not duplicated!", val);
                 }
                 counter++;
             }
