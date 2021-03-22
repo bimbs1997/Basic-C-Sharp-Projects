@@ -123,20 +123,30 @@ namespace Six_Part_Project
 
             //Part 6
             Console.WriteLine("\n----------Part 6----------\n");
-            List<string> someDup = new List<string>() { "flower", "country", "fly", "text", "raid", "switch", "fly", "roumer", "visual", "named", "color" };
+            List<string> someDup = new List<string>() { "flower", "country", "country", "fly", "raid", "text", "raid", "switch", "fly", "roumer", "visual", "named", "color" };
 
-            int counter = 0;
+            List<string> searchItems = new List<string>();
             foreach (string val in someDup)
             {
-                for (int i = 0; i < counter; i++)
+                found = false;
+                for (int i = 0; i < searchItems.Count; i++)
                 {
-                    if (someDup[i].Equals(val))
+                    if (searchItems[i].Equals(val))
                     {
-                        Console.WriteLine(val + " is already on the list");
+                        found = true;
                         break;
                     }
                 }
-                counter++;
+
+                if (found == true)
+                {
+                    Console.WriteLine(val + " is already on list!");
+                }
+                else
+                {
+                    Console.WriteLine(val);
+                    searchItems.Add(val);
+                }
             }
             Console.ReadKey();
         }
