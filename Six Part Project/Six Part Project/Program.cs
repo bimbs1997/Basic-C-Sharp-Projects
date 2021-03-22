@@ -86,36 +86,39 @@ namespace Six_Part_Project
             List<string> someSame = new List<string>(){
                 "flower", "country", "fly", "text", "raid", "switch", "fly", "roumer", "visual", "named", "color"
             };
-            Console.WriteLine("Select the string for cheking duplicate by input the index number: ");
+            Console.WriteLine("Enter the string for cheking duplicate: ");
             for (int i = 0; i < someSame.Count; i++)
             {
                 Console.WriteLine(i + ":" + someSame[i]);
             }
             Console.Write("\nYour choice: ");
-            int choice = Convert.ToInt16(Console.ReadLine());
+            string choice = Console.ReadLine().Trim();
             bool found = false;
-            if (choice >= 0 && choice < someSame.Count)
+            int count = 0;
+            List<int> indexArr = new List<int>();
+            for (int i = 0; i < someSame.Count; i++)
             {
-                for (int i = 0; i < someSame.Count; i++)
+                if (someSame[i] == choice)
                 {
-                    if (i == choice)
-                    {
-                        continue;
-                    }
-                    if (someSame[i] == someSame[choice])
-                    {
-                        Console.WriteLine("\nString Present at: " + i);
-                        found = true;
-                    }
+                    count++;
+                    indexArr.Add(i);
+                    found = true;
                 }
-                if (found == false)
+            }
+            if (found == false)
+            {
+                Console.WriteLine("Entered String is not not present in list!");
+            }
+            else if (count >= 2)
+            {
+                for (int i = 0; i < indexArr.Count; i++)
                 {
-                    Console.WriteLine("\nString is not duplicated in array!");
+                    Console.WriteLine("String is present on: " + indexArr[i]);
                 }
             }
             else
             {
-                Console.WriteLine("\nYou choose wrong index!");
+                Console.WriteLine("String is no duplicated!");
             }
 
             //Part 6
@@ -125,33 +128,13 @@ namespace Six_Part_Project
             int counter = 0;
             foreach (string val in someDup)
             {
-                found = false;
-
-                //Starting index for second forech loop
-                int count = 0;
-                foreach (string seconName in someDup)
+                for (int i = 0; i < counter; i++)
                 {
-                    //Skipping the same index
-                    if (counter == count)
+                    if (someDup[i].Equals(val))
                     {
-                        count++;
-                        continue;
+                        Console.WriteLine(val + " is already on the list");
+                        break;
                     }
-                    if (seconName.Equals(val))
-                    {
-                        if (seconName.Equals(val))
-                        {
-                            Console.WriteLine();
-                            Console.WriteLine(val + " is already appeared in string!");
-                            found = true;
-                            break;
-                        }
-                    }
-                    count++;
-                }
-                if (found == false)
-                {
-                    Console.WriteLine("\n{0} is not duplicated!", val);
                 }
                 counter++;
             }

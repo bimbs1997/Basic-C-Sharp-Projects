@@ -5,3 +5,10 @@ C:\Users\Gaming PC\source\repos\Six Part Project\Six Part Project\obj\Debug\Six 
 C:\Users\Gaming PC\source\repos\Six Part Project\Six Part Project\obj\Debug\Six Part Project.csproj.CoreCompileInputs.cache
 C:\Users\Gaming PC\source\repos\Six Part Project\Six Part Project\obj\Debug\Six Part Project.exe
 C:\Users\Gaming PC\source\repos\Six Part Project\Six Part Project\obj\Debug\Six Part Project.pdb
+D:\GitHub\Basic-C-Sharp-Projects\Six Part Project\Six Part Project\bin\Debug\Six Part Project.exe.config
+D:\GitHub\Basic-C-Sharp-Projects\Six Part Project\Six Part Project\bin\Debug\Six Part Project.exe
+D:\GitHub\Basic-C-Sharp-Projects\Six Part Project\Six Part Project\bin\Debug\Six Part Project.pdb
+D:\GitHub\Basic-C-Sharp-Projects\Six Part Project\Six Part Project\obj\Debug\Six Part Project.csprojAssemblyReference.cache
+D:\GitHub\Basic-C-Sharp-Projects\Six Part Project\Six Part Project\obj\Debug\Six Part Project.csproj.CoreCompileInputs.cache
+D:\GitHub\Basic-C-Sharp-Projects\Six Part Project\Six Part Project\obj\Debug\Six Part Project.exe
+D:\GitHub\Basic-C-Sharp-Projects\Six Part Project\Six Part Project\obj\Debug\Six Part Project.pdb
