@@ -1,0 +1,12 @@
+c:\users\tayya\onedrive\documents\visual studio 2013\Projects\Classes And Method Assignment 1\Classes And Method Assignment 1\bin\Debug\Classes And Method Assignment 1.exe.config
+c:\users\tayya\onedrive\documents\visual studio 2013\Projects\Classes And Method Assignment 1\Classes And Method Assignment 1\bin\Debug\Classes And Method Assignment 1.exe
+c:\users\tayya\onedrive\documents\visual studio 2013\Projects\Classes And Method Assignment 1\Classes And Method Assignment 1\bin\Debug\Classes And Method Assignment 1.pdb
+c:\users\tayya\onedrive\documents\visual studio 2013\Projects\Classes And Method Assignment 1\Classes And Method Assignment 1\obj\Debug\Classes And Method Assignment 1.exe
+c:\users\tayya\onedrive\documents\visual studio 2013\Projects\Classes And Method Assignment 1\Classes And Method Assignment 1\obj\Debug\Classes And Method Assignment 1.pdb
+D:\Assignments\New folder\Classes And Method Assignment 1\Classes And Method Assignment 1\bin\Debug\Classes And Method Assignment 1.exe.config
+D:\Assignments\New folder\Classes And Method Assignment 1\Classes And Method Assignment 1\bin\Debug\Classes And Method Assignment 1.exe
+D:\Assignments\New folder\Classes And Method Assignment 1\Classes And Method Assignment 1\bin\Debug\Classes And Method Assignment 1.pdb
+D:\Assignments\New folder\Classes And Method Assignment 1\Classes And Method Assignment 1\obj\Debug\Classes And Method Assignment 1.csprojAssemblyReference.cache
+D:\Assignments\New folder\Classes And Method Assignment 1\Classes And Method Assignment 1\obj\Debug\Classes And Method Assignment 1.csproj.CoreCompileInputs.cache
+D:\Assignments\New folder\Classes And Method Assignment 1\Classes And Method Assignment 1\obj\Debug\Classes And Method Assignment 1.exe
+D:\Assignments\New folder\Classes And Method Assignment 1\Classes And Method Assignment 1\obj\Debug\Classes And Method Assignment 1.pdb
