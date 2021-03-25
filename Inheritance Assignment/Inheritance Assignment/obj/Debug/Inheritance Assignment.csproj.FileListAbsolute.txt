@@ -1,0 +1,13 @@
+c:\users\tayya\onedrive\documents\visual studio 2013\Projects\Inheritance Assignment\Inheritance Assignment\bin\Debug\Inheritance Assignment.exe.config
+c:\users\tayya\onedrive\documents\visual studio 2013\Projects\Inheritance Assignment\Inheritance Assignment\bin\Debug\Inheritance Assignment.exe
+c:\users\tayya\onedrive\documents\visual studio 2013\Projects\Inheritance Assignment\Inheritance Assignment\bin\Debug\Inheritance Assignment.pdb
+c:\users\tayya\onedrive\documents\visual studio 2013\Projects\Inheritance Assignment\Inheritance Assignment\obj\Debug\Inheritance Assignment.csprojResolveAssemblyReference.cache
+c:\users\tayya\onedrive\documents\visual studio 2013\Projects\Inheritance Assignment\Inheritance Assignment\obj\Debug\Inheritance Assignment.exe
+c:\users\tayya\onedrive\documents\visual studio 2013\Projects\Inheritance Assignment\Inheritance Assignment\obj\Debug\Inheritance Assignment.pdb
+D:\Assignments\New folder\Inheritance Assignment\Inheritance Assignment\bin\Debug\Inheritance Assignment.exe.config
+D:\Assignments\New folder\Inheritance Assignment\Inheritance Assignment\bin\Debug\Inheritance Assignment.exe
+D:\Assignments\New folder\Inheritance Assignment\Inheritance Assignment\bin\Debug\Inheritance Assignment.pdb
+D:\Assignments\New folder\Inheritance Assignment\Inheritance Assignment\obj\Debug\Inheritance Assignment.csprojAssemblyReference.cache
+D:\Assignments\New folder\Inheritance Assignment\Inheritance Assignment\obj\Debug\Inheritance Assignment.csproj.CoreCompileInputs.cache
+D:\Assignments\New folder\Inheritance Assignment\Inheritance Assignment\obj\Debug\Inheritance Assignment.exe
+D:\Assignments\New folder\Inheritance Assignment\Inheritance Assignment\obj\Debug\Inheritance Assignment.pdb
