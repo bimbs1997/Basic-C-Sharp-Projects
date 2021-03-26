@@ -8,20 +8,9 @@ namespace Inheritance_Assignment
 {
     class Person
     {
-        string firstName;
-        string lastName;
+        public string FirstName{get; set;}
 
-        public string FirstName
-        {
-            get { return firstName;}
-            set { firstName = value; }
-        }
-
-        public string LastName
-        {
-            get { return lastName;}
-            set { lastName = value; }
-        }
+        public string LastName{get; set;}
 
         public void SayName()
         {
