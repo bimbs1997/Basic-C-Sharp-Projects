@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{90261F4E-BF16-460D-A2CF-A0D7146329CC}</ProjectGuid>
+    <ProjectGuid>{FE857DC4-71AF-4BE3-806A-9EEC9C26DFEE}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Intefaces_Assignment</RootNamespace>
-    <AssemblyName>Intefaces Assignment</AssemblyName>
+    <RootNamespace>Interface_Assignments</RootNamespace>
+    <AssemblyName>Interface Assignments</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -42,6 +42,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Employee.cs" />
+    <Compile Include="IQuittable.cs" />
     <Compile Include="Person.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

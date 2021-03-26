@@ -4,12 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Intefaces_Assignment
+namespace Interface_Assignments
 {
-    class Program
+    interface IQuittable
     {
-        static void Main(string[] args)
-        {
-        }
+        void Quit();
     }
 }

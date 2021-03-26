@@ -4,20 +4,20 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Intefaces_Assignment
+namespace Interface_Assignments
 {
-    class Employee : Person
+    class Employee: Person, IQuittable
     {
-        int id;
-        public int Id
-        {
-            get { return id; }
-            set { id = value; }
-        }
+        public int Id { get; set; }
 
         public override void sayName()
         {
             Console.WriteLine("Name: " + base.FirstName + " " + base.LastName);
+        }
+
+        public void Quit()
+        {
+            Console.WriteLine("I Quit!");
         }
     }
 }

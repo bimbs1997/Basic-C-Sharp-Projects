@@ -1,0 +1,6 @@
+c:\users\tayya\onedrive\documents\visual studio 2013\Projects\Interface Assignments\Interface Assignments\bin\Debug\Interface Assignments.exe.config
+c:\users\tayya\onedrive\documents\visual studio 2013\Projects\Interface Assignments\Interface Assignments\bin\Debug\Interface Assignments.exe
+c:\users\tayya\onedrive\documents\visual studio 2013\Projects\Interface Assignments\Interface Assignments\bin\Debug\Interface Assignments.pdb
+c:\users\tayya\onedrive\documents\visual studio 2013\Projects\Interface Assignments\Interface Assignments\obj\Debug\Interface Assignments.csprojResolveAssemblyReference.cache
+c:\users\tayya\onedrive\documents\visual studio 2013\Projects\Interface Assignments\Interface Assignments\obj\Debug\Interface Assignments.exe
+c:\users\tayya\onedrive\documents\visual studio 2013\Projects\Interface Assignments\Interface Assignments\obj\Debug\Interface Assignments.pdb

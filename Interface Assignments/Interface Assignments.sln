@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intefaces Assignment", "Intefaces Assignment\Intefaces Assignment.csproj", "{90261F4E-BF16-460D-A2CF-A0D7146329CC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface Assignments", "Interface Assignments\Interface Assignments.csproj", "{FE857DC4-71AF-4BE3-806A-9EEC9C26DFEE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{90261F4E-BF16-460D-A2CF-A0D7146329CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{90261F4E-BF16-460D-A2CF-A0D7146329CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{90261F4E-BF16-460D-A2CF-A0D7146329CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{90261F4E-BF16-460D-A2CF-A0D7146329CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE857DC4-71AF-4BE3-806A-9EEC9C26DFEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE857DC4-71AF-4BE3-806A-9EEC9C26DFEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE857DC4-71AF-4BE3-806A-9EEC9C26DFEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE857DC4-71AF-4BE3-806A-9EEC9C26DFEE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
