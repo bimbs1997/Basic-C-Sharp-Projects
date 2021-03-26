@@ -1,0 +1,6 @@
+c:\users\tayya\onedrive\documents\visual studio 2013\Projects\Generic Assignment\Generic Assignment\bin\Debug\Generic Assignment.exe.config
+c:\users\tayya\onedrive\documents\visual studio 2013\Projects\Generic Assignment\Generic Assignment\bin\Debug\Generic Assignment.exe
+c:\users\tayya\onedrive\documents\visual studio 2013\Projects\Generic Assignment\Generic Assignment\bin\Debug\Generic Assignment.pdb
+c:\users\tayya\onedrive\documents\visual studio 2013\Projects\Generic Assignment\Generic Assignment\obj\Debug\Generic Assignment.csprojResolveAssemblyReference.cache
+c:\users\tayya\onedrive\documents\visual studio 2013\Projects\Generic Assignment\Generic Assignment\obj\Debug\Generic Assignment.exe
+c:\users\tayya\onedrive\documents\visual studio 2013\Projects\Generic Assignment\Generic Assignment\obj\Debug\Generic Assignment.pdb
