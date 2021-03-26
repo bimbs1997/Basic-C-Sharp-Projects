@@ -4,3 +4,10 @@ c:\users\tayya\onedrive\documents\visual studio 2013\Projects\Interface Assignme
 c:\users\tayya\onedrive\documents\visual studio 2013\Projects\Interface Assignments\Interface Assignments\obj\Debug\Interface Assignments.csprojResolveAssemblyReference.cache
 c:\users\tayya\onedrive\documents\visual studio 2013\Projects\Interface Assignments\Interface Assignments\obj\Debug\Interface Assignments.exe
 c:\users\tayya\onedrive\documents\visual studio 2013\Projects\Interface Assignments\Interface Assignments\obj\Debug\Interface Assignments.pdb
+D:\GitHub\Basic-C-Sharp-Projects\Interface Assignments\Interface Assignments\bin\Debug\Interface Assignments.exe.config
+D:\GitHub\Basic-C-Sharp-Projects\Interface Assignments\Interface Assignments\bin\Debug\Interface Assignments.exe
+D:\GitHub\Basic-C-Sharp-Projects\Interface Assignments\Interface Assignments\bin\Debug\Interface Assignments.pdb
+D:\GitHub\Basic-C-Sharp-Projects\Interface Assignments\Interface Assignments\obj\Debug\Interface Assignments.csprojAssemblyReference.cache
+D:\GitHub\Basic-C-Sharp-Projects\Interface Assignments\Interface Assignments\obj\Debug\Interface Assignments.csproj.CoreCompileInputs.cache
+D:\GitHub\Basic-C-Sharp-Projects\Interface Assignments\Interface Assignments\obj\Debug\Interface Assignments.exe
+D:\GitHub\Basic-C-Sharp-Projects\Interface Assignments\Interface Assignments\obj\Debug\Interface Assignments.pdb
