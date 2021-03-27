@@ -1,0 +1,13 @@
+c:\users\tayya\onedrive\documents\visual studio 2013\Projects\Enums Assignment\Enums Assignment\bin\Debug\Enums Assignment.exe.config
+c:\users\tayya\onedrive\documents\visual studio 2013\Projects\Enums Assignment\Enums Assignment\bin\Debug\Enums Assignment.exe
+c:\users\tayya\onedrive\documents\visual studio 2013\Projects\Enums Assignment\Enums Assignment\bin\Debug\Enums Assignment.pdb
+c:\users\tayya\onedrive\documents\visual studio 2013\Projects\Enums Assignment\Enums Assignment\obj\Debug\Enums Assignment.exe
+c:\users\tayya\onedrive\documents\visual studio 2013\Projects\Enums Assignment\Enums Assignment\obj\Debug\Enums Assignment.pdb
+c:\users\tayya\onedrive\documents\visual studio 2013\Projects\Enums Assignment\Enums Assignment\obj\Debug\Enums Assignment.csprojResolveAssemblyReference.cache
+D:\Assignments\New folder\Enums Assignment\Enums Assignment\bin\Debug\Enums Assignment.exe.config
+D:\Assignments\New folder\Enums Assignment\Enums Assignment\bin\Debug\Enums Assignment.exe
+D:\Assignments\New folder\Enums Assignment\Enums Assignment\bin\Debug\Enums Assignment.pdb
+D:\Assignments\New folder\Enums Assignment\Enums Assignment\obj\Debug\Enums Assignment.csprojAssemblyReference.cache
+D:\Assignments\New folder\Enums Assignment\Enums Assignment\obj\Debug\Enums Assignment.csproj.CoreCompileInputs.cache
+D:\Assignments\New folder\Enums Assignment\Enums Assignment\obj\Debug\Enums Assignment.exe
+D:\Assignments\New folder\Enums Assignment\Enums Assignment\obj\Debug\Enums Assignment.pdb
