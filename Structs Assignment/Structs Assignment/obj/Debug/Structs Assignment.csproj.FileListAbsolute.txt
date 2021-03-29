@@ -1,6 +1,0 @@
-c:\users\tayya\onedrive\documents\visual studio 2013\Projects\Structs Assignment\Structs Assignment\bin\Debug\Structs Assignment.exe.config
-c:\users\tayya\onedrive\documents\visual studio 2013\Projects\Structs Assignment\Structs Assignment\bin\Debug\Structs Assignment.exe
-c:\users\tayya\onedrive\documents\visual studio 2013\Projects\Structs Assignment\Structs Assignment\bin\Debug\Structs Assignment.pdb
-c:\users\tayya\onedrive\documents\visual studio 2013\Projects\Structs Assignment\Structs Assignment\obj\Debug\Structs Assignment.exe
-c:\users\tayya\onedrive\documents\visual studio 2013\Projects\Structs Assignment\Structs Assignment\obj\Debug\Structs Assignment.pdb
-C:\Users\tayya\OneDrive\Documents\Visual Studio 2013\Projects\Structs Assignment\Structs Assignment\obj\Debug\Structs Assignment.csprojResolveAssemblyReference.cache

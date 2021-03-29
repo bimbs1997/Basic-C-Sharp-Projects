@@ -13,13 +13,14 @@ namespace Enums_Assignment
         {
             try
             {
-                Console.Write("Ernter the current day of the week: ");
-                string currentday = Console.ReadLine();
+                Console.Write("Eenter the current day of the week: ");
+                int currentday = Convert.ToInt32(Console.ReadLine());
                 DayOfWeek day;
 
-                if (Enum.TryParse<DayOfWeek>(currentday, out day))
+                if(currentday > 0 && currentday < 8)
                 {
-                    Console.WriteLine("Current Day is: " + currentday);
+                    Console.WriteLine((DayOfWeek)currentday- 1);
+                    Console.ReadKey();
                 }
                 else
                 {
