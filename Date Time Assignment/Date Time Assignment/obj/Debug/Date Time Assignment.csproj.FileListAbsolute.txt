@@ -1,0 +1,6 @@
+c:\users\tayya\onedrive\documents\visual studio 2013\Projects\Date Time Assignment\Date Time Assignment\bin\Debug\Date Time Assignment.exe.config
+c:\users\tayya\onedrive\documents\visual studio 2013\Projects\Date Time Assignment\Date Time Assignment\bin\Debug\Date Time Assignment.exe
+c:\users\tayya\onedrive\documents\visual studio 2013\Projects\Date Time Assignment\Date Time Assignment\bin\Debug\Date Time Assignment.pdb
+c:\users\tayya\onedrive\documents\visual studio 2013\Projects\Date Time Assignment\Date Time Assignment\obj\Debug\Date Time Assignment.exe
+c:\users\tayya\onedrive\documents\visual studio 2013\Projects\Date Time Assignment\Date Time Assignment\obj\Debug\Date Time Assignment.pdb
+c:\users\tayya\onedrive\documents\visual studio 2013\Projects\Date Time Assignment\Date Time Assignment\obj\Debug\Date Time Assignment.csprojResolveAssemblyReference.cache
