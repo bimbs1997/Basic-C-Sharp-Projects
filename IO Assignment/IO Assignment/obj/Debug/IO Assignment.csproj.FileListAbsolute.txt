@@ -1,0 +1,6 @@
+c:\users\tayya\onedrive\documents\visual studio 2015\Projects\IO Assignment\IO Assignment\bin\Debug\IO Assignment.exe.config
+c:\users\tayya\onedrive\documents\visual studio 2015\Projects\IO Assignment\IO Assignment\bin\Debug\IO Assignment.exe
+c:\users\tayya\onedrive\documents\visual studio 2015\Projects\IO Assignment\IO Assignment\bin\Debug\IO Assignment.pdb
+c:\users\tayya\onedrive\documents\visual studio 2015\Projects\IO Assignment\IO Assignment\obj\Debug\IO Assignment.csprojResolveAssemblyReference.cache
+c:\users\tayya\onedrive\documents\visual studio 2015\Projects\IO Assignment\IO Assignment\obj\Debug\IO Assignment.exe
+c:\users\tayya\onedrive\documents\visual studio 2015\Projects\IO Assignment\IO Assignment\obj\Debug\IO Assignment.pdb
