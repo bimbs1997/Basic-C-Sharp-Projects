@@ -35,7 +35,7 @@ namespace Exception_Handling
                 }
             }catch(Exception ex)
             {
-                Console.WriteLine("Enter appropriate number!");
+                Console.WriteLine(ex.Message.ToString());
             }
 
             Console.ReadKey();
