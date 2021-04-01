@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.21005.1
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exception Handling", "Exception Handling\Exception Handling.csproj", "{373AA9A5-6951-49BD-B362-94821DF92175}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exception Handling", "Exception Handling\Exception Handling.csproj", "{D4CB7115-A28F-44CE-90C9-43416F493A85}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{373AA9A5-6951-49BD-B362-94821DF92175}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{373AA9A5-6951-49BD-B362-94821DF92175}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{373AA9A5-6951-49BD-B362-94821DF92175}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{373AA9A5-6951-49BD-B362-94821DF92175}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4CB7115-A28F-44CE-90C9-43416F493A85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4CB7115-A28F-44CE-90C9-43416F493A85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4CB7115-A28F-44CE-90C9-43416F493A85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4CB7115-A28F-44CE-90C9-43416F493A85}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

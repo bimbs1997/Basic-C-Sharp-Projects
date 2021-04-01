@@ -1,13 +1,6 @@
-c:\users\tayya\onedrive\documents\visual studio 2013\Projects\Exception Handling\Exception Handling\bin\Debug\Exception Handling.exe.config
-c:\users\tayya\onedrive\documents\visual studio 2013\Projects\Exception Handling\Exception Handling\bin\Debug\Exception Handling.exe
-c:\users\tayya\onedrive\documents\visual studio 2013\Projects\Exception Handling\Exception Handling\bin\Debug\Exception Handling.pdb
-c:\users\tayya\onedrive\documents\visual studio 2013\Projects\Exception Handling\Exception Handling\obj\Debug\Exception Handling.csprojResolveAssemblyReference.cache
-c:\users\tayya\onedrive\documents\visual studio 2013\Projects\Exception Handling\Exception Handling\obj\Debug\Exception Handling.exe
-c:\users\tayya\onedrive\documents\visual studio 2013\Projects\Exception Handling\Exception Handling\obj\Debug\Exception Handling.pdb
-D:\Assignments\New folder\Exception Handling\Exception Handling\bin\Debug\Exception Handling.exe.config
-D:\Assignments\New folder\Exception Handling\Exception Handling\bin\Debug\Exception Handling.exe
-D:\Assignments\New folder\Exception Handling\Exception Handling\bin\Debug\Exception Handling.pdb
-D:\Assignments\New folder\Exception Handling\Exception Handling\obj\Debug\Exception Handling.csprojAssemblyReference.cache
-D:\Assignments\New folder\Exception Handling\Exception Handling\obj\Debug\Exception Handling.csproj.CoreCompileInputs.cache
-D:\Assignments\New folder\Exception Handling\Exception Handling\obj\Debug\Exception Handling.exe
-D:\Assignments\New folder\Exception Handling\Exception Handling\obj\Debug\Exception Handling.pdb
+c:\users\tayya\onedrive\documents\visual studio 2015\Projects\Exception Handling\Exception Handling\bin\Debug\Exception Handling.exe.config
+C:\Users\tayya\OneDrive\Documents\Visual Studio 2015\Projects\Exception Handling\Exception Handling\bin\Debug\Exception Handling.exe
+C:\Users\tayya\OneDrive\Documents\Visual Studio 2015\Projects\Exception Handling\Exception Handling\bin\Debug\Exception Handling.pdb
+C:\Users\tayya\OneDrive\Documents\Visual Studio 2015\Projects\Exception Handling\Exception Handling\obj\Debug\Exception Handling.csprojResolveAssemblyReference.cache
+C:\Users\tayya\OneDrive\Documents\Visual Studio 2015\Projects\Exception Handling\Exception Handling\obj\Debug\Exception Handling.exe
+C:\Users\tayya\OneDrive\Documents\Visual Studio 2015\Projects\Exception Handling\Exception Handling\obj\Debug\Exception Handling.pdb

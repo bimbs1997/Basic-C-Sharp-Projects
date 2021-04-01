@@ -6,37 +6,38 @@ using System.Threading.Tasks;
 
 namespace Exception_Handling
 {
-    class Program
+    class NegativeNumberNotAllowed : Exception
+    {
+          
+    }
+    class Program : Exception
     {
         static void Main(string[] args)
         {
-            List<int> numbers = new List<int>(){
-                10,4,7,3,5,7,3,2,4,6,7,32
-            };
-
-            Console.WriteLine("Before Try Catch!");
+            int age;
             try
             {
-                Console.Write("\nEnter number to divide the numbers in list: ");
-                int num = Convert.ToInt32(Console.ReadLine());
-
-                for (int i = 0; i < numbers.Count; i++)
+                Console.Write("Enter your age: ");
+                age = Convert.ToInt32(Console.ReadLine());
+                if(age < 0)
                 {
-                    Console.WriteLine(numbers[i] / num);
+                    Console.WriteLine("Negative numbers are not allowed!");
+                }
+                else if(age == 0)
+                {
+                    Console.WriteLine("Number must be greater to 0!");
+                }
+                else
+                {
+                    int currentYear = DateTime.Now.Year;
+                    int birthYear = currentYear - age;
+                    Console.WriteLine("Your birth year is: " + birthYear);
                 }
             }catch(Exception ex)
             {
-                if(ex is DivideByZeroException )
-                {
-                    Console.WriteLine("Error: Can't Divided by Zero!");
-                }
-                if(ex is FormatException)
-                {
-                    Console.WriteLine("Error: Can't divided by string and characters!");
-                }
+                Console.WriteLine("Enter appropriate number!");
             }
 
-            Console.WriteLine("\nThis code executed after try catch!");
             Console.ReadKey();
         }
     }
