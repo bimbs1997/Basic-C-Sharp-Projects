@@ -21,11 +21,11 @@ namespace Exception_Handling
                 age = Convert.ToInt32(Console.ReadLine());
                 if(age < 0)
                 {
-                    Console.WriteLine("Negative numbers are not allowed!");
+                    throw new Exception("Negative numbers are not allowed!");
                 }
                 else if(age == 0)
                 {
-                    Console.WriteLine("Number must be greater to 0!");
+                    throw new Exception("Number must be greater to 0!");
                 }
                 else
                 {
